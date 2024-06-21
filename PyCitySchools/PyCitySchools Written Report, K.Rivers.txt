@@ -1,0 +1,42 @@
+﻿Py City Schools Written Report
+Data Analysis and Summary by:  Kade Rivers
+
+
+Purpose
+
+The purpose of this data analysis and summary is to display the reading and math data for the Py City School District high schools and determine top performing schools, lowest performing schools as well as various factors of the type of school, school size, and school budget in comparison to the passing rates for reading and math. The data included the reading and math testing scores for a total of 15 unique high schools in the district. There are seven public schools in the district and eight charter schools with a total of 39,170 students.
+
+Key Findings:
+
+District Summary
+
+     For the district, the DataFrame displays the District’s Average Math Score for grades 9-12 at a rounded 79%, and Average Reading Score at a rounded 82%. The percentage of students in the district for grades 9-12 that are passing math is a rounded 75% and the percentage of students in the district for grades 9-12 passing reading are a rounded 86%. The final display is the percentage of students grades 9-12 which are passing both math and reading at only 65%.  
+
+
+Math Scores by Grade and School
+        The math scores by grade and school display that schools have similar testing scores grades 9-12 for each. This is a good indication that the school is providing similar quality in math education for grades 9-12 at each individual school, however, noticing the varying scores by high school, some schools clearly have a higher average for the math test scores in grades 9-12 over others.  
+
+
+Reading Scores by Grade and School  
+        Overall the reading scores are higher across the district for grades 9-12. Similar data is displayed that while the education in grades 9-12 appears to be equitable at each individual high school, there are schools with a higher average set of scores indicating a shift in quality of education depending on which school is attended in the district.
+
+
+Per School Summary
+        Outputting the data by each individual high school across the district is a great snapshot of how each school is doing for themselves as well as comparison to other schools around the district to find schools that have comparable scores as well as where individual schools are sitting overall within the district.
+
+        Other displays of scores and information are displayed to determine highest performing schools, lowest performing schools, and comparisons of scores in public vs charter schools, score averages vs funding, and score averages vs school size.
+
+Conclusions:
+
+
+        This is a fairly large school district with a lot of data to compare. Overall the district only has 65% of students in grades 9-12 passing both reading and math, however some individual scores are clearly higher ranking above others due their passing rates. 
+
+
+* Conclusion 1:  Charter schools in this district are significantly higher ranking with both reading and math scores while also having a lower cost per student, indicating that students able to attend charter schools in the district will have a higher quality education overall.
+* Conclusion 2:  School sizes with higher student populations indicate lower test scores overall. While there is one large charter school, the total students is still only 2283 students while the smallest public school is still 2739 students! A public school with higher numbers of students, without access to private tuition, and with parents that are more likely to be middle or lower class economically than the parents that have access to send their students to a privately paid charter school, may become overloaded and unable to keep class sizes at ideal numbers in order to have the opportunity to educate all students equitably, and socioeconomic status (SES) of public school families is a large indication of how much support students are able to get at home when parents may be working odd hours or multiple jobs and unable to reinforce materials at home.
+Recommendations:
+
+
+        While there is a clear indicator of charter schools having higher test scores in this district, the reality is that not every student can attend a charter school, and that class sizes matter. My recommendations as a former educator and current data analyst in training, are for the district to obtain and look into curriculum differences in the public vs charter schools to infer if the drastic changes in passing scores can be minimized by modifying curriculum. A big indicator of passing scores may also be comparing the curriculum standards being utilized and assessed at the public vs the charter schools as public schools have far more regulations on curriculum and scheduling within their school days. Looking into weekly instructional minutes for public vs charter schools in the subjects of reading and math as well as looking at student attendance records in the public vs the charter schools and family SES in public vs charter schools may provide more insight into the “why” there is such a gap between public and charter test scores. 
+        It is important to remember that although there may be large gaps between passing test scores, there are a lot of factors as to how an individual school performs within a district. The amount of students with low SES vs middle or upper class SES can have a large impact on school performance. A smaller charter school may be simply educating and supporting many of their students individually within the classroom, and a very large public school may have much larger class sizes, less special education or paraprofessionals within the classrooms, and more family and behavioral problems that are a part of their day. Many public schools in areas with low SES are providing free meals both at school and sending bags of food and toiletries home so families are able to feed their kids and have hygienic products on the weekend. While a private charter school may be hosting family gatherings and fundraisers for additional experiences and events at their school, many public schools are collecting non-perishable items to stock the food bags, collecting pennies to donate to local shelters, and even having clothing and toy drives to provide families with clothing for their children and some presents for the holidays.
+        While the data shows a clear indication of the top performing and the lowest performing schools in this district, it is only a snapshot into this district and further information and data from individual schools should be collected to determine growth and progress for the student growth within the schools they attend as they progress throughout high school to indicate growth at the individual schools themselves. A baseline for the district and school performance from the district is a great start, now it’s time to dig deeper into the inner workings of each school and determine growth points for individual schools and students to get a better image of the individual schools.
